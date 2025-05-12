@@ -15,7 +15,7 @@ const Navbar = () => {
         </a>
         <ul className="hidden md:flex items-center gap-6 lg:gap-8 rounded-full px-12 py-3">
           <li>
-            <a href="#top" className="font-Ovo">
+            <a href="#top" style={{ fontFamily: "ovo, sans-serif" }}>
               Home
             </a>
           </li>
