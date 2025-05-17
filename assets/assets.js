@@ -36,6 +36,7 @@ import send_icon from "./send-icon.png";
 import right_arrow_bold from "./right-arrow-bold.png";
 import right_arrow_bold_dark from "./right-arrow-bold-dark.png";
 import my_profile_img from "./picofme.png";
+import my_logo from "./my-name.png";
 
 export const assets = {
   user_image,
@@ -76,6 +77,7 @@ export const assets = {
   right_arrow_bold,
   right_arrow_bold_dark,
   my_profile_img,
+  my_logo,
 };
 
 export const workData = [
