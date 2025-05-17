@@ -16,7 +16,7 @@ const Header = () => {
         className="flex items-end gap-2 text-xl md:text-2xl mb-3"
         style={{ fontFamily: "Ovo" }}
       >
-        Hi! I'm Harhs Sachan{" "}
+        Hi! I'm Harsh Sachan.
         <Image src={assets.hand_icon} alt="" className="w-6" />
       </h3>
       <h1
